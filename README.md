@@ -1,5 +1,6 @@
 # Circular-Buffer
 > Progetto del corso 'Programmazione C++' del gennaio del 2022 (Università Milano-Bicocca)
+
 Senza utilizzare strutture dati a lista, il progetto richiede la realizzazione di una
 classe cbuffer generica che implementa un buffer circolare di elementi di tipo
 T (vedi figura seguente).
